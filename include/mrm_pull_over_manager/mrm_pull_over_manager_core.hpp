@@ -38,9 +38,9 @@
 #include <tier4_system_msgs/srv/operate_mrm.hpp>
 
 // lanelet
-#include <lanelet2_extension/regulatory_elements/Forward.hpp>
-#include <lanelet2_extension/utility/message_conversion.hpp>
-#include <lanelet2_extension/utility/query.hpp>
+#include <autoware_lanelet2_extension/regulatory_elements/Forward.hpp>
+#include <autoware_lanelet2_extension/utility/message_conversion.hpp>
+#include <autoware_lanelet2_extension/utility/query.hpp>
 
 #include <lanelet2_core/Attribute.h>
 #include <lanelet2_core/LaneletMap.h>
